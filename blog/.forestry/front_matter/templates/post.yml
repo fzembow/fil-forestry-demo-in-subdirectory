@@ -7,3 +7,5 @@ fields:
   label: Title
   name: title
   description: The title of the post
+pages:
+- blog/content/posts/olivia-s-post.md
