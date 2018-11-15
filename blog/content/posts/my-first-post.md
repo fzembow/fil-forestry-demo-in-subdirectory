@@ -1,7 +1,8 @@
 ---
-title: "My First Post"
-date: 2018-11-15T12:58:58-05:00
----
+title: My First Post
+date: 2018-11-15 17:58:58 +0000
 
+---
 Hey this is a post over here
 
+* 
